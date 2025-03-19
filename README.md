@@ -1,6 +1,6 @@
 # Heart-disease-risk-analysis
 ## Project Overview
-### This project aims to analyze heart disease risk using machine learning techniques. The study leverages data from the Heart Disease UCI Dataset to identify patterns and risk factors that contribute to heart disease. The analysis includes Exploratory Data Analysis (EDA), feature selection, machine learning modeling, and SHAP-based explainability.
+### This project aims to analyze heart disease risk using machine learning techniques. The study leverages data from the Heart Disease UCI Dataset to identify patterns and risk factors that contribute to heart disease. The data used for this analysis is taken from kaggle.The analysis includes Exploratory Data Analysis (EDA), feature selection, machine learning modeling, and SHAP-based explainability.
 ## Dataset Description
 ### The dataset consists of 205 observations and 13 features related to patient health metrics, such as:
 Age
@@ -48,5 +48,7 @@ Preventive healthcare strategies should target high-risk individuals for early i
 SHAP-based analysis helps explain why a patient is at risk, making models more interpretable for medical professionals.
 Future work can integrate this analysis into a risk prediction dashboard.
 
+## Refernce of the Data
+https://www.kaggle.com/datasets/ketangangal/heart-disease-dataset-uci/code
 
 
