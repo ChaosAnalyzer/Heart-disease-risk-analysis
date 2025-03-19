@@ -48,7 +48,7 @@ Preventive healthcare strategies should target high-risk individuals for early i
 SHAP-based analysis helps explain why a patient is at risk, making models more interpretable for medical professionals.
 Future work can integrate this analysis into a risk prediction dashboard.
 
-## Refernce of the Data
+## Reference 
 https://www.kaggle.com/datasets/ketangangal/heart-disease-dataset-uci/code
 
 
